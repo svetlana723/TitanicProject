@@ -1,0 +1,23 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Данные (если большие, но твои небольшие — можно не исключать)
+# data/*.csv
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+.idea/
