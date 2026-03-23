@@ -20,7 +20,9 @@
 
 ## Результаты
 Модель - Accuracy
+
 Logistic Regression - 0.8212
+
 Random Forest - 0.7877
 
 ## Выводы
